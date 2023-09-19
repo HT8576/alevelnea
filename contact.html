@@ -111,13 +111,18 @@ function myFunction() {
   <div class="fcf-form-group">
     <label for="Message" class="fcf-label">Your message</label>
     <div class="fcf-input-group">
-      <textarea id="Message" name="Message" class="fcf-form-control" rows="6" placeholder="Anythin you wanna tell us" maxlength="3000" style="height:200px" required></textarea>
+      <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" style="height:200px" required></textarea>
     </div>
   </div>
   <div class="fcf-form-group">
     <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send</button>
   </div>
   <style>
+  body {
+  margin: 0;
+  font-family: 'Barlow Condensed', sans-serif;
+  }
+
   input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
