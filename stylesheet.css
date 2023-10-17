@@ -1,5 +1,5 @@
 @font-face {
-    font-family: caseyreplica;
+    font-family: 'CaseyReplica';
     src: url("https://ht8576.github.io/alevelnea/resources/casey_replica_edited-webfont.woff2") format('woff2'),
          url("https://ht8576.github.io/alevelnea/resources/casey_replica_edited-webfont.woff") format('woff'),
          url("https://ht8576.github.io/alevelnea/resources/Casey_Replica_edited.ttf") format("ttf");
@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-weight: normal;
   font-style: normal;
-  font-family: 'caseyreplica', Arial, sans-serif;
+  font-family: 'CaseyReplica', Arial, sans-serif;
 }
 
 .topnav {
