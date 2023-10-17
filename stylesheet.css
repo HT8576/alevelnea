@@ -5,6 +5,10 @@
          url("https://ht8576.github.io/alevelnea/resources/Casey_Replica_edited.ttf") format("ttf");
 }
 
+html {
+  font-family: 'CaseyReplica', sans-serif;
+}
+
 body {
   margin: 0;
   font-weight: normal;
