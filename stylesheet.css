@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'CaseyReplica';
     src: url("resources/casey_replica_edited-webfont.woff2") format('woff2'),
-         url("alevelnea/resources/casey_replica_edited-webfont.woff") format('woff'),
-         url("alevelnea/resources/Casey_Replica_edited.ttf") format("ttf");
+         url("resources/casey_replica_edited-webfont.woff") format('woff'),
+         url("resources/Casey_Replica_edited.ttf") format("ttf");
 }
 
 html {
